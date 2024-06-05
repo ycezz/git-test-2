@@ -8,5 +8,8 @@
 <body>
     <h1>Learning Git remote</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquam rerum culpa molestiae vitae autem, mollitia est laboriosam debitis, tenetur laborum enim modi, dolores iure nisi voluptatibus. Explicabo, nostrum quos.</p>
+    <ul>
+        <li>Putri</li>
+    </ul>
 </body>
 </html>
